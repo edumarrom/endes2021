@@ -1,0 +1,17 @@
+public class MyClass {
+    public static void main(String args[]) {
+        int a = 4;
+        int b = 7;
+        int c = 9;
+        
+        if(a > b && a > c){
+            System.out.println(a + " Es el mayor");
+        } else{
+            if (b > a && b > c){
+                    System.out.println(b + " Es el mayor");
+            } else{
+                System.out.println(c + " Es el mayor");
+            }
+        }
+    }
+}

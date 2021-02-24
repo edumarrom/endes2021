@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="10cm" height="18cm" viewBox="59 48 200 344" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Fondo">
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 121.281 51 L 174.656,51 C 182.026,51 188,59.9543 188,71 C 188,82.0457 182.026,91 174.656,91 L 121.281,91 C 113.912,91 107.938,82.0457 107.938,71 C 107.938,59.9543 113.912,51 121.281,51z"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="147.969" y="76.6826">
+        <tspan x="147.969" y="76.6826">Inicio</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="99.5625,148 215.643,148 197.081,199 81,199 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="148.322" y="179.183">
+        <tspan x="148.322" y="179.183">num1, num2</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="148.318,228.783 236.386,266.081 148.318,303.38 60.2497,266.081 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="148.318" y="271.764">
+        <tspan x="148.318" y="271.764">num1 = num2</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 125.5 351 L 171.5,351 C 177.851,351 183,359.954 183,371 C 183,382.046 177.851,391 171.5,391 L 125.5,391 C 119.149,391 114,382.046 114,371 C 114,359.954 119.149,351 125.5,351z"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="148.5" y="376.683">
+        <tspan x="148.5" y="376.683">Fin</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="147.969" y1="91" x2="148.167" y2="137.298"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="148.199,144.798 143.156,134.819 148.167,137.298 153.156,134.777 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="148.32" y1="200.002" x2="148.32" y2="218.049"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="148.319,225.549 143.32,215.549 148.32,218.049 153.32,215.549 "/>
+    </g>
+    <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="236.386,266.081 257.386,266.081 257.386,113 148.089,113 148.089,119.017 "/>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="148.384" y1="304.356" x2="148.447" y2="340.311"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="148.46,347.811 143.442,337.82 148.447,340.311 153.442,337.802 "/>
+    </g>
+  </g>
+</svg>
