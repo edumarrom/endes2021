@@ -3,10 +3,11 @@
 
 ## Estructura:
 
-    main
-    |   Apuntes: Material didáctico de las unidades.
-    |   Exámenes: Cuestiones y entregas de exámenes realizados.
-    |   Tareas: Actividades y ejercicios propuestos durante el curso
+- Raíz:
+    - Apuntes: Material didáctico de las unidades.
+    - Exámenes: Cuestiones y entregas de exámenes realizados.
+    - Tareas: Actividades y ejercicios propuestos durante el curso.
+    - Utilidades: Herramientas útiles para el módulo.
 
 ## Índice:
 Cada carpeta contiene de manera organizado el contenido por unidad didáctica:
